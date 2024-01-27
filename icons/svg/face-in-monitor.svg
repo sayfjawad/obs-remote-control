@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-monitor" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="3" width="20" height="14" rx="2" ry="2" style="fill: rgb(186, 218, 85);"/>
+  <line x1="8" y1="21" x2="16" y2="21"/>
+  <line x1="12" y1="17" x2="12" y2="21"/>
+  <circle cx="16.767" cy="8.157" r="3.522" style="fill: rgb(186, 218, 85); stroke: rgba(135, 203, 119, 0.8); stroke-width: 1px;"/>
+  <circle cx="16.767" cy="8.157" r="3.522" style="stroke-width: 1px;"/>
+  <path d="M 15.359 8.862 C 15.359 8.862 15.887 9.566 16.767 9.566 C 17.648 9.566 18.176 8.862 18.176 8.862" style="stroke-width: 1px;"/>
+  <line x1="15.711" y1="7.101" x2="15.714" y2="7.101" style="stroke-width: 1px;"/>
+  <line x1="17.824" y1="7.101" x2="17.827" y2="7.101" style="stroke-width: 1px;"/>
+</svg>

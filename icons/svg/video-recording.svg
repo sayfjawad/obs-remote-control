@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-video" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="23 7 16 12 23 17 23 7" style="fill: rgb(186, 218, 85);"/>
+  <rect x="1" y="5" width="15" height="14" rx="2" ry="2" style="fill: rgb(186, 218, 85);"/>
+  <ellipse style="stroke: rgb(0, 0, 0); fill: rgb(255, 0, 0);" cx="8.352" cy="12.039" rx="5.052" ry="5.052"/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 1px; fill: rgb(186, 218, 85);" cx="5.981" cy="2.5" rx="2.951" ry="2.951"/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 1px; fill: rgb(186, 218, 85);" cx="11.884" cy="2.501" rx="2.951" ry="2.951"/>
+</svg>
